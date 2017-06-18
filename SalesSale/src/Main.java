@@ -9,6 +9,10 @@ public class Main {
 		System.out.println("Hello 4");
 	}
 	
+	public void display(){
+		System.out.println("fuuk of");
+	}
+	
 	
 
 }
