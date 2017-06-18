@@ -11,6 +11,10 @@ public class Main {
 		System.out.println("Caps change");
 	}
 	
+	public void display(){
+		System.out.println("fuuk of");
+	}
+	
 	
 
 }
