@@ -2,7 +2,8 @@
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Hello");
+			// testing
+
 	}
 	
 	public void display(){
@@ -12,6 +13,12 @@ public class Main {
 	public void newBranch(){
 		System.out.
 	}
+	
+	public void laserMethod(){
+		System.out.
+	}
+	
+	
 	
 	
 
