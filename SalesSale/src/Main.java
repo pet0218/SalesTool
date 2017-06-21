@@ -9,6 +9,10 @@ public class Main {
 		System.out.println("fuuk of");
 	}
 	
+	public void newBranch(){
+		System.out.
+	}
+	
 	
 
 }
