@@ -5,6 +5,8 @@ public class Main {
 		int helloNow = 345;
 		System.out.println("Hellowedd");
 	}
+
+	// hahahaaha
 	
 	public void display(){
 		System.out.println("fuuk of");
