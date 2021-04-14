@@ -11,7 +11,7 @@ public class Main {
 	}
 	
 	public void newBranch(){
-		System.out.
+		System.out.println(wtf);
 	}
 	
 	public void laserMethod(){
