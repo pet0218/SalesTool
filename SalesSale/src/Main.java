@@ -19,7 +19,8 @@ public class Main {
 	public void laserMethod(){
 		System.out.
 	}
-	
+
 	// huehuehuehue
+	// remote hihihihi
 
 }
