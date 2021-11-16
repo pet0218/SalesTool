@@ -13,14 +13,16 @@ public class Main {
 	}
 	
 	public void newBranch(){
-		System.out.println(wtf);
+		System.out.println("wtf");
 	}
 	
 	public void laserMethod(){
-		System.out.
+
 	}
 
 	// huehuehuehue
 	// remote hihihihi
+
+	//feature branch
 
 }
