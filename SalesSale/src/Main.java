@@ -11,9 +11,9 @@ public class Main {
 	public void display(){
 		System.out.println("fuuk of");
 	}
-	
+
 	public void newBranch(){
-		System.out.println("wtf");
+		System.out.println("wtfthiswillbwOnMaster");
 	}
 	
 	public void laserMethod(){
