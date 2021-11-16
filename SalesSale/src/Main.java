@@ -13,7 +13,7 @@ public class Main {
 	}
 
 	public void newBranch(){
-		System.out.println("wtfoooook");
+		System.out.println("wtf");
 	}
 	
 	public void laserMethod(){
